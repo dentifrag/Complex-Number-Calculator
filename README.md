@@ -1,7 +1,7 @@
 # Complex Number Calculator
  Add, subtract, multiply, and divide complex number expressions!
  
- I was doing some homework and became really interested in the complex number system and how it ties some of the holes in algebra together. So I spent this last afternoon coding a calculator with a GUI to show my professor.
+ I was doing some homework and became really interested in the complex number system, and how it ties some of the holes in algebra together. So I spent this last afternoon coding a calculator with a GUI to show my professor.
  
  **NOTE:** It's still a work in progress and crashes if you try to calculate with no values, or non-numbers inputted. I am also working on a function for the output of the division problems to be fractional, rather than decimal.
  
